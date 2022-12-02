@@ -1,0 +1,105 @@
+header {
+    background-color: #00ff33;
+        text-align: center;
+        height: 100;
+} 
+body {
+    background-color: #ccffcc;
+}       
+footer {
+    background-color: #33ffff;
+}
+.ak1 {
+    background-color:#ffff99 ;
+}
+.ak2 {
+    background-color: #3333cc;
+}
+.ak3 {
+    background-color: #ffffcc;
+}
+table, td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    width: 80%;
+}
+#cell1 {
+background-color: greenyellow;
+    text-align: center;
+}
+#cell2 {
+background-color: #CCCCCC;  
+    text-align: center;
+}
+#cell3 {
+background-color: #CC0000;
+    text-align: center;
+}
+
+#cell4 {
+    background-color: #CCFFFF;
+    text-align: center;
+}
+
+#cell5 {
+    background-color: #CC9900;
+    text-align: center;
+}
+
+#cell6 {
+    background-color: #FF3300;
+    text-align: center;
+}
+
+#cell7 {
+    background-color: #FFCCFF;
+    text-align: center;
+}
+
+
+#cell8 {
+    background-color:#CC99FF;
+    text-align: center;
+}
+
+#cell9 {
+    background-color: #0066FF;
+    text-align: center;
+}
+
+#cella {
+    background-color: #00CC99;
+    text-align: center;
+}
+
+#cellb {
+    background-color:#99FF00;
+    text-align: center;
+}
+
+#cellc {
+    background-color:#999999;
+    text-align: center;
+}
+
+#celld {
+    background-color: #CCFF66;
+    text-align: center;
+}
+
+#celle {
+    background-color: #00FFCC;
+    text-align: center;
+}
+#cellf {
+    background-color: #FFFF99;
+    text-align: center;
+}
+
+#cell0 {
+    background-color: #66CCFF;
+    text-align: center;
+}
