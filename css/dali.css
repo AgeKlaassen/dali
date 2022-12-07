@@ -1,7 +1,7 @@
 header {
     background-color: #00ff33;
         text-align: center;
-        height: 100;
+        height: 100px;
 } 
 body {
     background-color: #ccffcc;
@@ -28,6 +28,7 @@ table {
 }
 #cell1 {
 background-color: greenyellow;
+color:rgb(204,51,102);
     text-align: center;
 }
 #cell2 {
@@ -36,6 +37,7 @@ background-color: #CCCCCC;
 }
 #cell3 {
 background-color: #CC0000;
+color:rgb(255,255,0);
     text-align: center;
 }
 
@@ -56,6 +58,7 @@ background-color: #CC0000;
 
 #cell7 {
     background-color: #FFCCFF;
+    color:rgb(255,153,255);
     text-align: center;
 }
 
@@ -67,6 +70,7 @@ background-color: #CC0000;
 
 #cell9 {
     background-color: #0066FF;
+    color:rgb(255,255,0);
     text-align: center;
 }
 
@@ -77,6 +81,7 @@ background-color: #CC0000;
 
 #cellb {
     background-color:#99FF00;
+    color: rgb(255,0,204);
     text-align: center;
 }
 
@@ -87,15 +92,18 @@ background-color: #CC0000;
 
 #celld {
     background-color: #CCFF66;
+    color:rgb(153,153,255);
     text-align: center;
 }
 
 #celle {
     background-color: #00FFCC;
+    color:rgb(102,153,0);
     text-align: center;
 }
 #cellf {
     background-color: #FFFF99;
+    color:rgb(204,0,0);
     text-align: center;
 }
 
